@@ -1,4 +1,8 @@
-<h1 align="center"><b>Hello, I'm Iris! 👋 </b></h1>
+<div align="center"> 
+  <img src="https://monophy.com/media/3bGUbLiHM37hVF4O2N/monophy.gif" width="70px">
+</div>
+
+<h1 align="center"><b>Hello, I'm Iris! 👋 </b> </h1>
 
 <p align="center">✨ Aspiring full stack developer</p>
 <p align="center">🌱 Still in the process of learning and exploring many things  ████▒░░░░░░░░░</p>
@@ -9,7 +13,7 @@
 
 <div align="center"> 
   <p align="center"><i>Let's connect!</i></p>
-  <a href="https://www.linkedin.com/in/iris-yan">
+  <a href="https://www.linkedin.com/in/iris-yan" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="Iris's LinkedIn">
   </a>
 </div>
