@@ -5,7 +5,7 @@
 <h1 align="center"><b>Hello, I'm Iris! 👋 </b> </h1>
 
 <p align="center">✨ Aspiring full stack developer</p>
-<p align="center">🌱 Still in the process of learning and exploring many things  ████▒░░░░░░░░░</p>
+<p align="center">🌱 Still in the process of learning and exploring many things <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" width="20px"></p>
 <p align="center">😴 Enjoys developing programs to ease mundane tasks</p>
 
 <br>
