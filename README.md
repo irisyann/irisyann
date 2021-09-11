@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"><b>Hello, I'm Iris! 👋 </b></h1>
 
-<!--
-**peanutooo/peanutooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">✨ Aspiring full stack developer</p>
+<p align="center">🌱 Still in the process of learning and exploring many things  ████▒░░░░░░░░░</p>
+<p align="center">😴 Enjoys developing programs to ease mundane tasks</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center"> 
+  <p align="center"><i>Let's connect!</i></p>
+  <a href="https://www.linkedin.com/in/iris-yan">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="Iris's LinkedIn">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanutooo&show_icons=true&theme=radical&layout=compact&hide=css">
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peanutooo&show_icons=true&theme=radical">
+</div>
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=peanutooo">
+</div>
+
