@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://monophy.com/media/3bGUbLiHM37hVF4O2N/monophy.gif" width="70px">
+  <img src="https://c.tenor.com/906nGAL7Xw0AAAAi/mochi-peachcat-cute-cat.gif" width="70px">
 </div>
 
 <h1 align="center"><b>Hello, I'm Iris! 👋 </b> </h1>
