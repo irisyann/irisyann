@@ -20,12 +20,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peanutooo&show_icons=true&theme=radical&layout=compact&hide=css">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irisyann&show_icons=true&theme=radical&layout=compact&hide=css">
 </div>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peanutooo&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=irisyann&show_icons=true&theme=radical">
 </div>
 <br>
 
